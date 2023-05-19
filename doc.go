@@ -1,1 +1,1 @@
-package snbt // Package snbt import "github.com/nas-cod/mc-snbt"
+package snbt // Package snbt import "github.com/nas-code/mc-snbt"
