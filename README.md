@@ -14,7 +14,7 @@ SNBT (stringfied Name Binary Tag)是Minecraft引入的用于保存数据的文�
 ## Basic Usage 基础用法
 
 ```go
-import snbt "github.com/nas-cod/mc-snbt"
+import snbt "github.com/nageslan/mc-snbt"
 ```
 
 func1 语法1
