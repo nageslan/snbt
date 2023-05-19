@@ -1,4 +1,4 @@
-module github.com/nageslan/mc-snbt
+module github.com/nageslan/snbt
 
 go 1.20
 
